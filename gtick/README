@@ -1,0 +1,15 @@
+Brief description:
+
+Metronome
+
+Source/motivation:
+
+https://www.reddit.com/r/NixOS/comments/cq8zdj/gtick_metronome/, Comitter is not the author of the reddit post. 
+
+Status:
+
+Unknown
+
+ToDo:
+
+use the `callPackage` style 
