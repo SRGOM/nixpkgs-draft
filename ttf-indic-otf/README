@@ -1,0 +1,15 @@
+Brief description:
+
+Beautiful indic fonts
+
+Source/motivation:
+
+Package is in official arch repo. 
+
+Status:
+
+Works perfectly on my machine.
+
+ToDo:
+
+use the `callPackage` style 
