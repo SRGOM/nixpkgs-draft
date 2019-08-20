@@ -1,0 +1,15 @@
+Brief description:
+
+No colorpicker in nixpkgs right now! gpick is probably the most popular and yet unavailable because of compilation issues, took me upwards of 10 hours to figure out...
+
+Source/motivation:
+
+Package is in official arch repo. 
+
+Status:
+
+Works perfectly on my machine.
+
+ToDo:
+
+use the `callPackage` style 
