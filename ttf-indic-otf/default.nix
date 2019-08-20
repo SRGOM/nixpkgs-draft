@@ -11,7 +11,7 @@ stdenv.mkDerivation rec {
         sha256 = "0wjy44wk6i2p2r906bikpm8i4xmd44mgpk2yg3ggs0d7jvaa0nb4";
     };
 
-    builder = ./ttf-indic-otf-builder.sh;
+    builder = ./ttf-indic-otf_builder.sh;
 
     buildInputs = [
         pkgs.gzip
